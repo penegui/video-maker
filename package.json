@@ -1,0 +1,19 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Projeto open source criador de videos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviMikael/video-maker.git"
+  },
+  "author": "Davi Mikael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaviMikael/video-maker/issues"
+  },
+  "homepage": "https://github.com/DaviMikael/video-maker#readme"
+}
